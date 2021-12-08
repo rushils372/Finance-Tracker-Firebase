@@ -1,0 +1,1 @@
+### Finance Tracker (with Firebase Authentication) Application
