@@ -1,7 +1,8 @@
 /* navbar styles */
 .navbar {
     width: 100%;
-    background: #effaf0;
+    /* background: #EBF8FF; */
+    background: #dbf2fd;
     padding: 20px 10px;
     box-sizing: border-box;
   }
@@ -13,9 +14,9 @@
   }
   .title {
     margin-right: auto;
-    font-weight: bold;
+    font-weight: 800;
     letter-spacing: 1px;
-    font-size: 1.2em;
+    font-size: 1.3em;
   }
   .navbar button, .navbar a {
     margin-left: 16px;

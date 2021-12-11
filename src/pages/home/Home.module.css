@@ -12,7 +12,7 @@
 }
 .sidebar form {
   padding: 20px;
-  background: #1f9751;
+  background: #003049;
   border-radius: 10px;
 }
 .sidebar input, .sidebar select {
@@ -43,7 +43,7 @@
   width: 100%;
 }
 .sidebar h3 {
-  color: #1f9751;
+  color: #003049;
   margin-bottom: 20px;
 }
 .sidebar aside {
@@ -64,7 +64,7 @@
   align-items: center;
   position: relative;
   overflow: hidden;
-  border-left: 4px solid #1f9751;
+  border-left: 4px solid #003049;
 }
 .transactions .name {
   color: #777;
